@@ -1,0 +1,89 @@
+  /* footer start */
+  .footer_wrap ul{
+  	padding:0;
+  	margin: 0;
+  }
+  .footer_wrap ul, .footerrap ul li{list-style: none;}
+  .footer_wrap{
+  	background:#f2f4f7;
+  	font-size: 12px;
+  }
+  .footer_wrap *{
+  		box-sizing:content-box;
+  }
+  .footer_wrap .fr{ float: right;}
+  .footer{
+  	width:1000px;
+  	padding:40px 0 ;
+  	margin: 0 auto;
+  }
+  .footer dl{
+  	float:left;
+  	margin-right:40px;
+  	margin-bottom: 0px;
+  }
+  .footer dl.contact{
+    margin-right:0;
+  }
+  .footer dl dt{
+  	height:50px;
+  	margin-bottom:5px;
+  }
+  .footer dl dt h6{
+  	height:49px;
+  	line-height:49px;
+  	font-size:18px;
+  	color:#4f4f4f;
+  	margin: 0;
+  }
+  .footer dl dd{
+  	line-height:26px;
+  	color:#4f4f4f;
+    margin-right:40px;
+  }
+  .footer dl dd ul{
+  	float:left;
+  }
+  .footer dl dd ul.first{
+    margin-right:55px;
+  }
+  .footer dl dd ul li{
+  	line-height:26px;
+  	color:#4f4f4f;
+  }
+  .footer dl dd a{
+  	color:#4f4f4f;
+  }
+  .footer dl dd a:hover{
+  	text-decoration:underline;
+  }
+  .footer_wrap .copyright{
+  	clear:both;
+    width:1000px;
+    margin:0 auto;
+  }
+  .footer_wrap .copyright p{
+  	height:25px;
+  	line-height:25px;
+  	text-align:center;
+  	color:#4f4f4f;
+  	margin: 0px;
+  }
+  .footer_wrap .copyright p .logo{
+  	padding-left:20px;
+  	background:url(http://www.umeng.com/images/icons/home/logo_small.png) 0 center no-repeat;
+  }
+  .footer_wrap .copyright a{
+  	color:#4f4f4f;
+  }
+  .footer .sc .wi{
+    width:258px;
+  }
+  .fl{
+    float:left;
+  }
+  .footer .sc .img{
+    margin-left:25px;
+    text-align:center;
+  }
+  /* footer end */
